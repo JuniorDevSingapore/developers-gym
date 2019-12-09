@@ -9,9 +9,11 @@ Developers' Gym consists of two components:
 
 ## Propose a workshop
 
-We welcome people from the industry to conduct workshop sessions at our events. To propose a workshop, please create an issue. 
+We welcome people from the industry to conduct workshop sessions at our events. 
 
-We can provide 
+To propose a workshop, please create an [issue](https://github.com/JuniorDevSingapore/developers-gym/issues/new?assignees=&labels=event+-+workshop&template=workshop-proposal.md&title=%5BWorkshop+Proposal%5D).
+
+We can provide: 
 
 - Event venue - we will provide a venue for the event from one of our venue sponsors
 - Teaching assistants (optional) - our volunteers may be able to help assist with the workshops
