@@ -23,4 +23,17 @@ We can provide:
 
 | Date | Event | Venue | Status |
 | ---- | ----- | ----- |:------:|
-|      |       |       |        |
+| Sat, Jan 4, 2020 | [Beyond Code - A non-technical playbook for the interview grind](https://github.com/JuniorDevSingapore/developers-gym/issues/2) | ThoughtWorks | Confirmed |
+| Sat, Jan 18, 2020 | Coding Dojo | | |
+| Sat, Feb 8, 2020 | [Deliver Better Tech Talks: Public Speaking for Devs](https://github.com/JuniorDevSingapore/developers-gym/issues/3) | | |
+| Sat, Feb 22, 2020 | Coding Dojo | | |
+| Sat, Mar 7, 2020 |
+| Sat, Mar 21, 2020 | Coding Dojo | | |
+| Sat, Apr 4, 2020 |  | | |
+| Sat, Apr 18, 2020 | Coding Dojo | | |
+| Sat, May 2, 2020 | 
+| Sat, May 16, 2020 | Coding Dojo | | |
+| Sat, May 30, 2020 | 
+| Sat, Jun 13, 2020 | Coding Dojo | | |
+| Sat, Jun 27, 2020 | 
+
