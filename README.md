@@ -29,7 +29,7 @@ We can provide:
 | Sat, Feb 22, 2020 | Coding Dojo | TBC | |
 | Sat, Mar 7, 2020 | iOS Dev 101 | TBC
 | Sat, Mar 21, 2020 | Coding Dojo | TBC | |
-| Sat, Apr 4, 2020 |  | | |
+| Sat, Apr 4, 2020 | [Go - Beginners' workshop by GoSG](https://github.com/JuniorDevSingapore/developers-gym/issues/4) | | |
 | Sat, Apr 18, 2020 | Coding Dojo | TBC | |
 | Sat, May 2, 2020 | 
 | Sat, May 16, 2020 | Coding Dojo | TBC | |
