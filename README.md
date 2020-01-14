@@ -29,11 +29,11 @@ We can provide:
 | Sat, Feb 22, 2020 | Coding Dojo | TBC | |
 | Sat, Mar 7, 2020 | [App Development with Swift](https://github.com/JuniorDevSingapore/developers-gym/issues/6) | TBC
 | Sat, Mar 21, 2020 | Coding Dojo | TBC | |
-| Sat, Apr 4, 2020 | [Go - Beginners' workshop by GoSG](https://github.com/JuniorDevSingapore/developers-gym/issues/4) | | |
+| Sat, Apr 4, 2020 | [Go - Beginners' workshop by GoSG](https://github.com/JuniorDevSingapore/developers-gym/issues/4) | TBC | |
 | Sat, Apr 18, 2020 | Coding Dojo | TBC | |
 | Sat, May 2, 2020 | [Intro to GraphQL](https://github.com/JuniorDevSingapore/developers-gym/issues/5) | TBC
 | Sat, May 16, 2020 | Coding Dojo | TBC | |
-| Sat, May 30, 2020 | 
+| Sat, May 30, 2020 | | TBC 
 | Sat, Jun 13, 2020 | Coding Dojo | TBC | |
-| Sat, Jun 27, 2020 | 
+| Sat, Jun 27, 2020 | | TBC 
 
