@@ -25,13 +25,13 @@ We can provide:
 | ---- | ----- | ----- |:------:|
 | Sat, Jan 4, 2020 | [Beyond Code - A non-technical playbook for the interview grind](https://github.com/JuniorDevSingapore/developers-gym/issues/2) | ThoughtWorks | Confirmed |
 | Sat, Jan 18, 2020 | Coding Dojo | TBC | |
-| Sat, Feb 8, 2020 | [Deliver Better Tech Talks: Public Speaking for Devs](https://github.com/JuniorDevSingapore/developers-gym/issues/3) | TBC | |
+| Sat, Feb 8, 2020 | [Deliver Better Tech Talks: Public Speaking for Devs](https://github.com/JuniorDevSingapore/developers-gym/issues/3) | ThoughtWorks | |
 | Sat, Feb 22, 2020 | Coding Dojo | TBC | |
-| Sat, Mar 7, 2020 | iOS Dev 101 | TBC
+| Sat, Mar 7, 2020 | [App Development with Swift](https://github.com/JuniorDevSingapore/developers-gym/issues/6) | TBC
 | Sat, Mar 21, 2020 | Coding Dojo | TBC | |
 | Sat, Apr 4, 2020 | [Go - Beginners' workshop by GoSG](https://github.com/JuniorDevSingapore/developers-gym/issues/4) | | |
 | Sat, Apr 18, 2020 | Coding Dojo | TBC | |
-| Sat, May 2, 2020 | 
+| Sat, May 2, 2020 | [Intro to GraphQL](https://github.com/JuniorDevSingapore/developers-gym/issues/5) | TBC
 | Sat, May 16, 2020 | Coding Dojo | TBC | |
 | Sat, May 30, 2020 | 
 | Sat, Jun 13, 2020 | Coding Dojo | TBC | |
